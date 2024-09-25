@@ -1,0 +1,10 @@
+/* Estilos específicos para a página de receitas */
+main {
+    padding: 20px;
+    max-height: calc(100vh - 100px);
+    overflow-y: auto;
+}
+
+.card {
+    margin-bottom: 20px;
+}
